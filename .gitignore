@@ -1,0 +1,8 @@
+Export
+Source_Images
+*.orig*
+*.BASE*
+*.REMOTE*
+*.LOCAL*
+*.DS_Store
+*.com.apple.timemachine.supported
